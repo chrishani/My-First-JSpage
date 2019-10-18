@@ -1,0 +1,45 @@
+body{
+	background-color: #ffece6;
+}
+#lovelybeach{
+	width: 100%;
+	height: 650px;
+	position: relative;
+}
+
+#beach{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 480px;
+	}
+	
+#kite{
+	position: absolute;
+	bottom: 130px;
+	left: 400px;
+	width:350px;
+	height:350px;
+}
+	
+#girl{
+	position: absolute;
+	bottom: 30px;
+	left: 0px;
+	width:350px;
+	height:450px;
+}
+
+#ship{
+		position: absolute;
+		right: 280px;
+		top: 80px;
+}
+
+#soccer{
+	position: absolute;
+	bottom: 0px;
+	right: 50px;
+	height: 450px;
+}
